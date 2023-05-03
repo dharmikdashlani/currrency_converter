@@ -25,11 +25,11 @@ These are the Currency Conveter app using Online Api.
 
 <img align="left" src="https://user-images.githubusercontent.com/102135008/235834533-a769de1d-e86d-4e05-b4b7-4e3a7e2119c9.jpg" width="220px">
 <img align="left" src="https://user-images.githubusercontent.com/102135008/235834543-f73896eb-721d-4180-a710-b1840bb526e9.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/102135008/235834555-fcc40bd8-f6e8-426f-b1c8-3d49795c5734.jpg" width="220px">
-<img align="left" src="https://user-images.githubusercontent.com/102135008/235834564-639a0a6c-da37-40a2-ae37-c372894895c1.jpg" width="220px">
+<img  src="https://user-images.githubusercontent.com/102135008/235834555-fcc40bd8-f6e8-426f-b1c8-3d49795c5734.jpg" width="220px">
+<img  src="https://user-images.githubusercontent.com/102135008/235834564-639a0a6c-da37-40a2-ae37-c372894895c1.jpg" width="220px">
 
 
-<br><br>
+<br>
 
 ## 📲 Preview
 
