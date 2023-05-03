@@ -40,7 +40,7 @@ https://user-images.githubusercontent.com/102135008/235834620-6a55294e-cecd-44e8
 ## 📝 License
 
 Copyright © [Dharmik Dashlani](https://github.com/dharmikdashlani). <br>
-This project is [MIT](License.md) licensed.
+This project is [MIT](https://github.com/dharmikdashlani/currrency_converter/blob/main/LICENSE) licensed.
 
 ---
 <div align="center">
