@@ -11,7 +11,10 @@ Made by Dharmik Dashlani
 ---
 
 
-https://user-images.githubusercontent.com/102135008/235834620-6a55294e-cecd-44e8-8bf4-1f84605490d8.mp4
+
+
+https://github.com/dharmikdashlani/currrency_converter/assets/102135008/f86991b1-5e1c-4d51-abde-3cf04b209af9
+
 
 
 <div align="center">
